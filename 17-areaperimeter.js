@@ -17,3 +17,6 @@ const areaPerimeter = function (x, y) {
 }
 // const areaPerimeter = (x, y) => (x === y ? x * y : 2 * (x + y));
 console.log(areaPerimeter(4, 4));
+
+
+// what is this all about?
